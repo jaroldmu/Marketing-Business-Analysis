@@ -68,16 +68,29 @@ https://public.tableau.com/app/profile/jarold.moreno/viz/MarketingBusinessDashbo
 Marketing-Business-Analysis/
 
 │
+
 ├── README.md
+
 │
+
 ├── data/
+
 │   └── marketing_agency_campaigns_2024_2026_raw.csv
+
 |   └── marketing_agency_campaigns_2024_2026_clean.csv
+
 │
+
 ├── sql/
+
 │   ├── 01_data_cleaning.sql
+
 │   ├── 02_exploratory_analysis.sql
+
 │   └── 03_business_questions.sql
+
 │
+
 ├── tableau/
+
 │   └── Marketing_Business_dashboard.twbx
