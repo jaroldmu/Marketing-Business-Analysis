@@ -1,0 +1,22 @@
+Column,Definition,Type
+Campaign_ID,Campaign identifier,Text
+Client_ID,Client identifier,Text
+Client_Name,Synthetic client name,Text
+Industry,Client industry,Text
+Campaign_Name,Campaign label,Text
+Channel,Marketing channel,Text
+Region,Target market,Text
+Audience_Segment,Target audience,Text
+Device,Primary device,Text
+Campaign_Month,Monthly observation date,Date
+Budget,Allocated budget,GBP
+Ad_Spend,Actual ad spend,GBP
+Impressions,Ad views,Integer
+Clicks,Ad clicks,Integer
+Leads,Leads generated,Integer
+Conversions,Attributed conversions,Integer
+Revenue,Attributed revenue,GBP
+Landing_Page_Views,Post-click page views,Integer
+Bounce_Rate,Bounce rate,Percent
+Avg_Session_Duration_Sec,Average session duration,Seconds
+Engagement_Rate,Engagement rate,Percent
