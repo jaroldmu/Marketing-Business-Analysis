@@ -63,7 +63,6 @@ The final **Tableau** dashboard provides and interactive business overview.
 https://public.tableau.com/app/profile/jarold.moreno/viz/MarketingBusinessDashboard/Dashboard1
 
 ## Project Structure
-## Project Structure
 
 Marketing-Business-Analysis/
 
